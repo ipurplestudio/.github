@@ -1,0 +1,1 @@
+<p align="center"> <img src="/photo.png" width="715px"> </p>
